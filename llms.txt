@@ -1,0 +1,25 @@
+# Espaço Active
+
+> Estúdio de pilates há 17 anos na Vila São Francisco, São Paulo (SP). Aulas de pilates em grupo e individuais, Mentor Physio Pilates, Gyrotonic, aulas para gestantes e terceira idade, fisioterapia, osteopatia, treinamento funcional e aulas on-line. Atendimento pelo WhatsApp (11) 99569-5100.
+
+## Dados do negócio
+
+- Endereço: R. Prof. Herbert Baldus, 169 - Vila São Francisco, São Paulo - SP, 05339-020
+- Horário: segunda a quarta, 7h às 12h e 17h às 21h; quinta, 7h às 12h; sexta, 17h às 21h; sábado e domingo fechado
+- WhatsApp: (11) 99569-5100 (https://wa.me/5511995695100)
+- Instagram: https://www.instagram.com/espaco_active/
+
+## Serviços
+
+- Pilates: aulas em grupo, aulas individuais e Mentor Physio Pilates
+- Aulas para gestantes
+- Aulas para a terceira idade
+- Gyrotonic, com instrutores certificados
+- Fisioterapia e osteopatia
+- Treinamento funcional
+- Aulas on-line
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
